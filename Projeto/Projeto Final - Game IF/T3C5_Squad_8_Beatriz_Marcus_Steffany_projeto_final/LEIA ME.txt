@@ -1,0 +1,9 @@
+IMPORTE O PYGAME PARA A SUA MÁQUINA
+No CMD:
+pip install pygame
+
+
+
+
+
+O arquivo que deve ser executado é o "main.py"
